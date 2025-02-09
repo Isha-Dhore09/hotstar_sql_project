@@ -10,5 +10,7 @@ Streaming platforms like Hotstar host a massive library of movies and TV shows, 
 
 Using SQL, we’ll analyze the dataset, extract valuable insights, and present findings that could help business decisions—whether it's about improving recommendations, expanding content, or understanding viewer preferences.
 
+## The data for this project is sourced from the Kaggle dataset:
+
 
 
